@@ -66,8 +66,8 @@ public class MyList<E> {
 		}
 		return "["+s.toString()+"]";
 	}
-	
-	
+
+
 	public static void main(String[] args) {
 		MyList<Integer> l = new MyList<>(20);
 		
