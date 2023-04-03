@@ -1,4 +1,4 @@
-package basics;
+package MyList;
 
 public class Pair<E,F> {
 	// data fields

@@ -1,4 +1,4 @@
-package trees;
+package Tree;
 
 public class BST<E extends Comparable<E>> extends BTree<E> {
 

@@ -1,6 +1,6 @@
-package trees;
+package Tree;
 
-import queues.Queue;
+import Queue.Queue;
 
 public class BTree<E> {
 

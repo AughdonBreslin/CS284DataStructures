@@ -67,10 +67,6 @@ public class PlayingWithShapes {
 		System.out.println(Arrays.toString(colors(ss)));
 
 		System.out.println(Arrays.toString(colors(fs)));
-
-		System.out.println(r2.colorAndHeight().getX());
-		
-		r2.m1(2);
 	}
 	
 	

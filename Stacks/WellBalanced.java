@@ -1,4 +1,4 @@
-package stacks;
+package Stacks;
 
 public class WellBalanced {
 	// data fields
